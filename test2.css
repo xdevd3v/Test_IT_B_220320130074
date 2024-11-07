@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 10px;
+    
+}
+.head{
+   width: 50%;
+   margin: 50px;
+   padding: 20px;
+   background-color: rgb(255, 149, 0);
+}
